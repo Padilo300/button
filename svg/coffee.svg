@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="33.75px" height="39.607px" viewBox="0 0 33.75 39.607" enable-background="new 0 0 33.75 39.607" xml:space="preserve">
+<rect x="-76" y="-67.25" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="1.25" height="0"/>
+
+	<g>
+		<g>
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M25.021,27.069c0.914-0.098,1.79-0.107,2.625-0.298
+				c2.992-0.681,4.923-3.431,4.769-6.694c-0.132-2.785-2.479-5.318-5.314-5.724c-0.401-0.057-0.809-0.091-1.214-0.091
+				c-6.181-0.006-12.362-0.004-18.543-0.003c-1.081,0-1.441,0.351-1.441,1.42c0.003,3.997-0.028,7.993,0.031,11.988
+				c0.029,1.982,1.591,3.518,3.581,3.541c3.949,0.049,7.899,0.045,11.848,0.003c2.013-0.021,3.499-1.551,3.623-3.571
+				C24.999,27.446,25.01,27.255,25.021,27.069z M25.035,17.478c1.5-0.19,2.835,0.059,3.707,1.385
+				c0.731,1.114,0.737,2.326,0.035,3.453c-0.855,1.375-2.209,1.63-3.742,1.454C25.035,21.672,25.035,19.58,25.035,17.478z"/>
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M31.331,33.378c-9.89,0-19.744,0-29.645,0
+				c-0.046,1.273,0.478,2.265,1.358,3.098c0.827,0.783,1.839,1.113,2.955,1.115c7.011,0.007,14.021,0.015,21.031-0.002
+				C29.493,37.581,31.399,35.71,31.331,33.378z"/>
+		</g>
+	</g>
+	<rect x="11.292" y="5.191" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="1.231" height="7.26">
+ 		<animateTransform attributeType="xml"
+        attributeName="transform" type="translate"
+        values="0 0; 0 5; 0 0"
+        begin="0" dur="1s" repeatCount="indefinite" />
+        <animate attributeName="opacity" attributeType="XML" values="0.2; 1; .2" begin="0s" dur="1s" repeatCount="indefinite" />
+
+	</rect>
+	<rect x="14.038" y="5.191" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="1.231" height="7.26">
+ 		<animateTransform attributeType="xml"
+        attributeName="transform" type="translate"
+        values="0 0; 0 5; 0 0"
+        begin="0.3S" dur="1s" repeatCount="indefinite" />
+        <animate attributeName="opacity" attributeType="XML" values="0.2; 1; .2" begin="0s" dur="1s" repeatCount="indefinite" />
+
+	</rect>
+	<rect x="16.784" y="5.191" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="1.23" height="7.26">
+		 <animateTransform attributeType="xml"
+        attributeName="transform" type="translate"
+        values="0 0; 0 5; 0 0"
+        begin="0.1s" dur="1s" repeatCount="indefinite" />
+        <animate attributeName="opacity" attributeType="XML" values="0.2; 1; .2" begin="0s" dur="1s" repeatCount="indefinite" />
+
+	</rect>
+	<rect x="19.529" y="5.191" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="1.231" height="7.26">
+		 <animateTransform attributeType="xml"
+        attributeName="transform" type="translate"
+        values="0 0; 0 5; 0 0"
+        begin="0.2s" dur="1s" repeatCount="indefinite" />
+        	<animate attributeName="opacity" attributeType="XML" values="0.2; 1; .2" begin="0s" dur="1s" repeatCount="indefinite" />
+	</rect>
+
+</svg>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="44.99px" height="45.41px" viewBox="0 0 44.99 45.41" enable-background="new 0 0 44.99 45.41" xml:space="preserve">
+<rect x="14.661" y="3.792" transform="matrix(0.7071 0.7071 -0.7071 0.7071 14.8095 -12.5009)" fill="#FFFFFF" width="15.668" height="15.668">
+	<animate
+      attributeName="opacity"
+      dur="1s"
+      values="0;1;0"
+      repeatCount="indefinite" 
+      begin="0"/>     
+</rect>
+<rect x="25.74" y="14.871" transform="matrix(0.7071 0.7071 -0.7071 0.7071 25.8884 -17.09)" fill="#FFFFFF" width="15.668" height="15.668">
+		<animate
+      attributeName="opacity"
+      dur="1s"
+      values="0;1;0"
+      repeatCount="indefinite" 
+      begin="0.2s"/>     
+</rect>
+<rect x="3.582" y="14.871" transform="matrix(0.7071 0.7071 -0.7071 0.7071 19.399 -1.4217)" fill="#FFFFFF" width="15.668" height="15.668">
+		<animate
+      attributeName="opacity"
+      dur="1s"
+      values="0;1;0"
+      repeatCount="indefinite" 
+      begin="0.4s"/>     
+</rect>
+<rect x="14.661" y="25.95" transform="matrix(0.7071 0.7071 -0.7071 0.7071 30.4765 -6.0112)" fill="#FFFFFF" width="15.668" height="15.668">
+		<animate
+      attributeName="opacity"
+      dur="1s"
+      values="0;1;0"
+      repeatCount="indefinite" 
+      begin="0.6s"/>     
+</rect>
+</svg>

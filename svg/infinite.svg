@@ -1,0 +1,28 @@
+<svg viewBox="-1 0 42 20" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<path id="infinity" fill="none" stroke="none" d="M31.2231445,17.4052734 C20.9999993,17.4052736 17.9999998,1.37207027 8.1376948,1.37207027 C-2.00000081,1.37207027 -2.00000004,17.4052736 8.13769493,17.4052734 C18.2753899,17.4052732 20.9999995,1.37207029 31.2231445,1.37207027 C40.9999995,1.37207026 40.9999978,17.4052732 31.2231445,17.4052734 Z"></path>
+	<circle r="2" id="dot" fill="#fff">
+		<animateMotion dur="1.2s" repeatCount="indefinite">
+      		<mpath xlink:href="#infinity" />
+    	</animateMotion>
+	</circle>
+	<circle r="2" id="dot" fill="#fff">
+		<animateMotion dur="1.2s" begin="0.1s" repeatCount="indefinite">
+      		<mpath xlink:href="#infinity" />
+    	</animateMotion>
+	</circle>	
+	<circle r="2" id="dot" fill="#fff">
+		<animateMotion dur="1.2s" begin="0.2s" repeatCount="indefinite">
+      		<mpath xlink:href="#infinity" />
+    	</animateMotion>
+	</circle>
+	<circle r="2" id="dot" fill="#fff">
+		<animateMotion dur="1.2s" begin="0.3s" repeatCount="indefinite">
+      		<mpath xlink:href="#infinity" />
+    	</animateMotion>
+	</circle>
+	<circle r="2" id="dot" fill="#fff">
+		<animateMotion dur="1.2s" begin="0.4s" repeatCount="indefinite">
+      		<mpath xlink:href="#infinity" />
+    	</animateMotion>
+	</circle>
+</svg>

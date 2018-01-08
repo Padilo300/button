@@ -1,0 +1,25 @@
+ <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+     width="40px" height="40px" viewBox="0 0 40 40" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+    <circle cx="22" cy="18" r="6" fill="#fff" opacity="0.5">
+      <animate attributeName="cx" attributeType="XML"
+        values="29; 18; 29"
+        begin="0.3s" dur="1s" repeatCount="indefinite" />
+    </circle>
+     <circle cx="18" cy="18" r="6" fill="#fff" opacity="0.5">
+      <animate attributeName="cy" attributeType="XML"
+        values="29; 18; 29"
+        begin="0.3s" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="18" cy="18" r="6" fill="#fff">
+    </circle>
+    <circle cx="10" cy="18" r="6" fill="#fff" opacity="0.5">
+      <animate attributeName="cx" attributeType="XML"
+        values="7; 18; 7"
+        begin="0.3s" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="18" cy="18" r="6" fill="#fff" opacity="0.5">
+      <animate attributeName="cy" attributeType="XML"
+        values="7; 18; 7"
+        begin="0.3s" dur="1s" repeatCount="indefinite" />
+    </circle>
+  </svg>

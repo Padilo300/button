@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="104px" height="104px" viewBox="0 0 104 104" enable-background="new 0 0 104 104" xml:space="preserve">
+<g>
+	<g>
+		<animateTransform
+      attributeName="transform"
+      dur="2s"
+      type="rotate"
+      from="0 52 50"
+      to="360 52 50"
+      repeatCount="indefinite" />
+		<path opacity="0.2" fill="#FFFFFF" d="M88.162,18.244C79.648,9.73,67.887,4.465,54.895,4.465
+			c-13.128,0-24.995,5.382-33.529,14.054l32.992,32.992L21.366,84.504c8.534,8.672,20.401,14.054,33.529,14.054
+			c12.992,0,24.753-5.266,33.267-13.779L54.895,51.511L88.162,18.244z"/>
+	</g>
+	<g>
+		<animateTransform
+      attributeName="transform"
+      dur="2s"
+      type="rotate"
+      from="0 52 50"
+      to="360 52 50"
+      repeatCount="indefinite" />
+		<path fill="none" d="M22.442,19.595l31.917,31.917L22.442,83.428c8.268,8.405,19.76,13.63,32.453,13.63
+			c12.557,0,23.943-5.108,32.191-13.354L54.895,51.511L87.086,19.32C78.838,11.073,67.452,5.965,54.895,5.965
+			C42.202,5.965,30.71,11.189,22.442,19.595z"/>
+		<path fill="#FFFFFF" d="M54.895,5.965c12.557,0,23.943,5.108,32.191,13.355l2.12-2.12C80.416,8.409,68.279,2.965,54.895,2.965
+			c-13.521,0-25.762,5.561-34.573,14.51l2.12,2.12C30.71,11.189,42.202,5.965,54.895,5.965z"/>
+		<path fill="#FFFFFF" d="M54.895,97.058c-12.693,0-24.185-5.225-32.453-13.63l-2.12,2.12c8.811,8.948,21.053,14.51,34.573,14.51
+			c13.384,0,25.521-5.444,34.311-14.235l-2.12-2.119C78.838,91.949,67.452,97.058,54.895,97.058z"/>
+	</g>
+	<circle fill="#FFFFFF" cx="54.243" cy="51.396" r="2.884">
+				<animateTransform
+      attributeName="transform"
+      dur="2s"
+      type="rotate"
+      from="0 52 50"
+      to="360 52 50"
+      repeatCount="indefinite" />
+	</circle>
+</g>
+</svg>
